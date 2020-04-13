@@ -1,0 +1,6 @@
+1) Model -> title, slug, author, body, published, created, updated, status (draft, published)
+2) Model Manager
+3) List, Detail views
+4) Pagination
+5) Static file setup
+6) CBVs

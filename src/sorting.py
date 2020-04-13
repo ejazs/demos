@@ -61,7 +61,7 @@ class Emp():
 
 
 ejaz = Emp('Ejaz', 27, 25000)
-test = Emp('Test', 21, 5000)
+test = Emp('Test', 21, 5000)  
 mac = Emp('Mac', 31, 27000)
 munna = Emp('Munna', 20, 3000)
 emps = [ejaz, test, mac, munna,]

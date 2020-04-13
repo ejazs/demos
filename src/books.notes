@@ -1,0 +1,82 @@
+[X] Django 3 Cookbook :
+  1) No projects :
+
+[Y] Django by Example :
+  1) Projects :
+    1) Blog :
+      i) Unexplored topics:
+        a) tagging system
+        b) sitemap framework
+        c) RSS feed
+        d) a search engine with PostgreSQL's fulltext search capabilities
+    
+    2) a Social Website :
+      i) Unexplored topics:
+        a) custom user profile model
+        b)  social authentication
+        c) AJAX bookmarklet
+        d) image thumbnails and create custom decorators
+        e) user activity stream
+        f) Redis
+    
+    3)  an Online Shop :
+      i) Unexplored topics :
+        a) Django sessions
+        b) context processor
+        c) asynchronous notifications using Celery
+        d) CSV files
+        e) PDF Invoices
+        f) internationalization
+        g) product recommendation engine using Redis
+
+    4) an E-Learning Platform :
+      i) Unexplored topics :
+        a) model inheritance
+        b) custom model fields
+        c) class-based views
+        d) manage groups and permissions
+        e) formsets
+        f) cache framework
+    5) Building an API :
+      i) Unexplored topics : 
+        a) DRF
+    
+     6) Going Live :
+      i) Unexplored topics : 
+        a) production environment using uWSGI and NGINX
+        b) SSL
+        c) custom middleware
+        d) custom management commands
+
+
+
+
+
+
+[X] Building Django Applications
+    Projects :
+        1) My Movie Database :
+          i) Unexplored topics:
+            a) Model Manager
+            b) Caching (In detail)
+            c) Django Debug Toolbar
+            d) Logging
+            e) Dockers & Containers
+          
+        2)  Answerly :
+          i) Unexplored topics:
+            a) Markdownify 
+            b) Elasticsearch 
+            c)  Coverage.py
+             
+        
+        3)  MailingList :
+            i) Unexplored topics:
+              a) Using Celery to send emails 
+              b) API
+        
+
+[X] Django : Web Dev with Python 
+  Projects :
+        No Projects
+          
